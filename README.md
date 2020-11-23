@@ -9,6 +9,10 @@ This work was inspired and made available due to the magnificent work of two oth
 * [https://github.com/nryhbhue/Electra-AC-Remote](https://github.com/nryhbhue/Electra-AC-Remote) - Thank you very much for the clear and detailed explanation, I was unable to do without it. Thank you @nryhbhue.
 * [https://github.com/barakwei/IRelectra](https://github.com/barakwei/IRelectra) - Excellent and clear code to understand this remote. Thank you @barakwei.
 
+### Electra AC Remote
+![Electra AC Remote Control](https://user-images.githubusercontent.com/11669278/99955545-35222180-2d8d-11eb-9838-2bbdce8b226e.jpg)
+
+
 after almost three months (on and off) of work, i was able to make this available.
 
 ### Installation:
